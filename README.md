@@ -49,7 +49,7 @@ voila etf_analyzer.ipynb
 
 ![Cumulative_Return_PYPL](https://user-images.githubusercontent.com/94591580/150664375-792f39ec-9076-4517-9d88-97218b687c72.png)
 
-*An Intereactive visulization of Cumulative Return for ET*
+*An Intereactive visulization of Cumulative Return for ETF*
 
 ![ETF_Cumulative_Return](https://user-images.githubusercontent.com/94591580/150664381-d706c21e-290a-410c-8695-18af2a94f406.png)
 ---
